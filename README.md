@@ -1,2 +1,2 @@
 # test-repo
-My first github repository
+This is repository for test
